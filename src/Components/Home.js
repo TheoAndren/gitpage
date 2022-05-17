@@ -13,7 +13,6 @@ export default function Home(){
         </nav>
         <main>
             <h2>Home</h2>
-            <p>Hello, this is my home page</p>
         </main>
     </>
     );
